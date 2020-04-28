@@ -1,0 +1,27 @@
+a {
+    color: green;
+    text-decoration: none ;
+}
+h1,h5 {
+    text-align: center;
+}
+.mail {
+    text-align: center;
+}
+
+ul {
+    display: block;
+}
+ li {
+     padding-left: 16px;
+ }
+ 
+li::before {
+    
+    padding-right: 8px;
+    color: green;
+}
+p,h4 {
+    padding-left: 16px;
+    
+}
